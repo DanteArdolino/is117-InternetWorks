@@ -1,7 +1,11 @@
 # About
 Website Location: https://danteardolino.github.io/is117-InternetWorks/
 
+History of the Internet + How the Internet Works
+
+
 [Click Here to View My Website](https://danteardolino.github.io/is117-InternetWorks/)
-[Click Here to View My Website on NJIT AFS SERVER](https://web.njit.edu/~dra24/is117sp21/docs/)
+
+Design Link : Design was already implemented, added the two sites together and fixed incongruities
 
 ## Dante Ardolino
